@@ -1,8 +1,0 @@
-setup.cfg
-setup.py
-roman_arabic_numerals/rom_arab_num.py
-roman_arabic_numerals.egg-info/PKG-INFO
-roman_arabic_numerals.egg-info/SOURCES.txt
-roman_arabic_numerals.egg-info/dependency_links.txt
-roman_arabic_numerals.egg-info/not-zip-safe
-roman_arabic_numerals.egg-info/top_level.txt
