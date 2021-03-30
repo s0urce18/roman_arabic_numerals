@@ -1,11 +1,11 @@
-# roman_arabic_numerals
+GitHub: https://github.com/s0urce18/roman_arabic_numerals
 
 Python Module for converting Roman numbers to Arabic and reverse
 
 'pip install roman-arabic-numerals' - to install
 
-'from roman_arabic_numerals import rom_arab_num' - to import
+'from roman_arabic_numerals import conv' - to import
 
-'rom_arab_num.arab_rom(n)' - to convert arabic to roman
+'conv.arab_rom(n)' - to convert arabic to roman
 
-'rom_arab_num.rom_arab('n')' - to convert roman to arabic
+'conv.rom_arab('n')' - to convert roman to arabic
